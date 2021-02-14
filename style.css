@@ -60,6 +60,10 @@ header{
             transform: translate(-50%,-50%);
     text-align: center;
 }
+.hero-text-box h1{
+    letter-spacing: 2px;
+    line-height: 1.5;
+}
 .logo{
     height: 100px;
     width: auto;
